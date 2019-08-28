@@ -1,0 +1,22 @@
+{
+  "database": {
+    "username": "CHANGE TO USERNAME",
+    "password": "CHANG TO USER PASSWORD",
+    "database": "CHANGE TO DATABASE NAME"
+  },
+
+  "auth": {
+    "admin": {
+      "username": "Admin",
+      "password": "CHANGE ME"
+    }
+  },
+
+  "static": {
+    "rootPath": "../client/public"
+  },
+
+  "upload": {
+    "destination": "../client/public/uploads"
+  }
+}
